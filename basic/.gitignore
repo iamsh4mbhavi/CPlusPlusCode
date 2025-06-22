@@ -1,0 +1,32 @@
+# Ignore executable files
+*.exe
+
+
+# Ignore object files and compiled binaries
+*.o
+*.out
+*.obj
+*.dll
+*.lib
+*.so
+
+# Ignore build folders
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Ignore temporary/system files
+*.log
+*.tmp
+*.swp
+*.suo
+*.user
+*.ncb
+*.vcxproj.*
+*.DS_Store
+Thumbs.db
+
+# Ignore generated files by IDEs
+.vscode/
+.idea/
